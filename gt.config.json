@@ -1,0 +1,15 @@
+{
+  "$schema": "https://assets.gtx.dev/config-schema.json",
+  "projectId": "prj_bu4wdbjnmghfoejwmv21j38f",
+  "locales": [
+    "en-US"
+  ],
+  "baseUrl": "https://api.gtx.wtf",
+  "defaultLocale": "en-US",
+  "files": {
+    "gt": {
+      "output": "public/_gt/[locale].json"
+    }
+  },
+  "framework": "next-app"
+}
