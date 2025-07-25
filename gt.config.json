@@ -5,7 +5,12 @@
     "af",
     "am",
     "en-US",
-    "sq"
+    "sq",
+    "ar",
+    "bg",
+    "bn",
+    "bs",
+    "zh"
   ],
   "baseUrl": "https://api.gtx.wtf",
   "defaultLocale": "en-US",
@@ -14,5 +19,6 @@
       "output": "public/_gt/[locale].json"
     }
   },
-  "framework": "next-app"
+  "framework": "next-app",
+  "_versionId": "81ab515ad80f0f3765706237bb354729d9c4465ed8b47470edf392ebb561d4b0"
 }

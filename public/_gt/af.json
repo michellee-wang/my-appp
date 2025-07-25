@@ -1,0 +1,23 @@
+{
+  "ae615e576a663d66": "Leer",
+  "5aa871958a8f167b": "Skep Next App",
+  "8f4ad63a5e46f1ca": "Ontplooi nou",
+  "48a877d410cd2818": "Gaan na nextjs.org →",
+  "680b347b7326d4db": "Voorbeelde",
+  "acd45daa47630530": [
+    "Begin deur ",
+    {
+      "i": 1,
+      "c": "app/page.tsx"
+    },
+    " te redigeer."
+  ],
+  "81f4d639ae326f49": "Lêer ikoon",
+  "0c088ae4cce7f188": "Vercel logomerk",
+  "27ffcf9f4583b9dc": "Wêreldbol-ikoon",
+  "ae8e26f27c2077ac": "Venster ikoon",
+  "43f264423a387dac": "Lees ons dokumentasie",
+  "e4e5b06f9f2359c1": "Next.js logo",
+  "039ccefb7f335e27": "Gegenereer deur create next app",
+  "caaa077e65d833be": "Stoor en sien jou veranderinge onmiddellik."
+}
