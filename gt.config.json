@@ -4,12 +4,12 @@
   "locales": [
     "af",
     "am",
-    "en-US",
-    "sq",
     "ar",
     "bg",
     "bn",
     "bs",
+    "en-US",
+    "sq",
     "zh"
   ],
   "baseUrl": "https://api.gtx.wtf",
